@@ -10,4 +10,4 @@ echo "Build Successful"
 
 echo "webhook test suucessful"
 
-echo "Automatic build test"
+echo "Automatic build test2"
