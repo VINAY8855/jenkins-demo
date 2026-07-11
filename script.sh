@@ -9,3 +9,5 @@ date
 echo "Build Successful"
 
 echo "webhook test suucessful"
+
+echo "Automatic build test"
